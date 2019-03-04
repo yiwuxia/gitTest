@@ -1,6 +1,3 @@
-test push 0001
-dev content
-hello chenmei
-creating a new branch is quick and simple
+xiao pang zi
 hello
 2019年3月4日10:22:15 push merge test
